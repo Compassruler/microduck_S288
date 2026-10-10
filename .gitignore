@@ -1,2 +1,9 @@
 开源资料/
+申报材料/
+课程汇报/
+个人开发/结构件
 **/.DS_Store
+
+# Temporary presentation builds and chart snapshots
+/.chart-data-*/
+/.*-build/
