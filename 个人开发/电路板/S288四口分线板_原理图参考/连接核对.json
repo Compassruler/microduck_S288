@@ -1,0 +1,39 @@
+{
+  "status": "connection_reference_not_pcb_verified",
+  "connector_pin_map": {
+    "1": "SIGNAL",
+    "2": "VCC",
+    "3": "GND"
+  },
+  "nets": {
+    "SIGNAL": [
+      "J1.1",
+      "J2.1",
+      "J3.1",
+      "J4.1"
+    ],
+    "VCC": [
+      "J1.2",
+      "J2.2",
+      "J3.2",
+      "J4.2",
+      "C1.+"
+    ],
+    "GND": [
+      "J1.3",
+      "J2.3",
+      "J3.3",
+      "J4.3",
+      "C1.-"
+    ]
+  },
+  "components": {
+    "J1": "PH2.0 3P, S288 upstream bus",
+    "J2": "PH2.0 3P, left leg",
+    "J3": "PH2.0 3P, right leg",
+    "J4": "PH2.0 3P, upper body",
+    "C1": "optional polarized capacitor, 470uF 25V trial starting value"
+  },
+  "power": "one shared servo supply through J1; upstream and branch current limits are NOT established",
+  "source": "Unitree J288/S288 user manual, page 3; S288 maximum operating supply 12.6V from product specifications"
+}

@@ -1,8 +1,17 @@
-开源资料/
-申报材料/
-课程汇报/
-个人开发/结构件
+# Local materials and mechanical designs
+/开源资料/
+/申报材料/
+/个人开发/结构件/
+/课程汇报/
+
 **/.DS_Store
+
+# Independent Git repositories
+/个人开发/bam/
+/个人开发/s288-calibration-studio/
+
+# Packaged calibration releases
+/个人开发/S288零位标定工具_发布版_*/
 
 # Temporary presentation builds and chart snapshots
 /.chart-data-*/

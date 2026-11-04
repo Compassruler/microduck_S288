@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2200" height="1400" viewBox="0 0 2200 1400">
+<rect width="2200" height="1400" fill="white"/>
+<text x="80" y="101.44" text-anchor="start" font-family="STHeiti, PingFang SC, Microsoft YaHei, sans-serif" font-size="54" fill="#172635">S288 四口无源分线板</text>
+<text x="80" y="151.66" text-anchor="start" font-family="STHeiti, PingFang SC, Microsoft YaHei, sans-serif" font-size="31" fill="#536575">连接原理参考图  |  在嘉立创 EDA 中按网络关系重画</text>
+<text x="2120" y="91.5" text-anchor="end" font-family="STHeiti, PingFang SC, Microsoft YaHei, sans-serif" font-size="25" fill="#536575">REV A · 2026-10-20</text>
+<text x="80" y="210.36" text-anchor="start" font-family="STHeiti, PingFang SC, Microsoft YaHei, sans-serif" font-size="26" fill="#536575">逻辑符号，不是插座正视图。实心圆点 = 电气连接；交叉无圆点 = 不连接。</text>
+<line x1="80" y1="235" x2="2120" y2="235" stroke="#d7e1e9" stroke-width="2"/>
+<text x="295" y="299.68" text-anchor="middle" font-family="STHeiti, PingFang SC, Microsoft YaHei, sans-serif" font-size="38" fill="#172635">J1</text>
+<text x="295" y="335.78" text-anchor="middle" font-family="STHeiti, PingFang SC, Microsoft YaHei, sans-serif" font-size="23" fill="#172635">上游 / 宇树 USB 转单总线板</text>
+<rect x="160" y="360" width="270" height="120" fill="#f7fafc" stroke="#172635" stroke-width="3"/>
+<text x="205" y="392.2" text-anchor="middle" font-family="STHeiti, PingFang SC, Microsoft YaHei, sans-serif" font-size="20" fill="#1767ae">SIGNAL</text>
+<text x="205" y="437.22" text-anchor="middle" font-family="STHeiti, PingFang SC, Microsoft YaHei, sans-serif" font-size="27" fill="#172635">1</text>
+<line x1="205" y1="480" x2="205" y2="550" stroke="#1767ae" stroke-width="3"/>
+<text x="295" y="392.2" text-anchor="middle" font-family="STHeiti, PingFang SC, Microsoft YaHei, sans-serif" font-size="20" fill="#bb3535">VCC</text>
+<text x="295" y="437.22" text-anchor="middle" font-family="STHeiti, PingFang SC, Microsoft YaHei, sans-serif" font-size="27" fill="#172635">2</text>
+<line x1="295" y1="480" x2="295" y2="660" stroke="#bb3535" stroke-width="3"/>
+<text x="385" y="392.2" text-anchor="middle" font-family="STHeiti, PingFang SC, Microsoft YaHei, sans-serif" font-size="20" fill="#34434e">GND</text>
+<text x="385" y="437.22" text-anchor="middle" font-family="STHeiti, PingFang SC, Microsoft YaHei, sans-serif" font-size="27" fill="#172635">3</text>
+<line x1="385" y1="480" x2="385" y2="960" stroke="#34434e" stroke-width="3"/>
+<text x="295" y="464.48" text-anchor="middle" font-family="STHeiti, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" fill="#536575">PH 2.0 · 3P</text>
+<text x="695" y="299.68" text-anchor="middle" font-family="STHeiti, PingFang SC, Microsoft YaHei, sans-serif" font-size="38" fill="#172635">J2</text>
+<text x="695" y="335.78" text-anchor="middle" font-family="STHeiti, PingFang SC, Microsoft YaHei, sans-serif" font-size="23" fill="#172635">左腿舵机链</text>
+<rect x="560" y="360" width="270" height="120" fill="#f7fafc" stroke="#172635" stroke-width="3"/>
+<text x="605" y="392.2" text-anchor="middle" font-family="STHeiti, PingFang SC, Microsoft YaHei, sans-serif" font-size="20" fill="#1767ae">SIGNAL</text>
+<text x="605" y="437.22" text-anchor="middle" font-family="STHeiti, PingFang SC, Microsoft YaHei, sans-serif" font-size="27" fill="#172635">1</text>
+<line x1="605" y1="480" x2="605" y2="550" stroke="#1767ae" stroke-width="3"/>
+<text x="695" y="392.2" text-anchor="middle" font-family="STHeiti, PingFang SC, Microsoft YaHei, sans-serif" font-size="20" fill="#bb3535">VCC</text>
+<text x="695" y="437.22" text-anchor="middle" font-family="STHeiti, PingFang SC, Microsoft YaHei, sans-serif" font-size="27" fill="#172635">2</text>
+<line x1="695" y1="480" x2="695" y2="660" stroke="#bb3535" stroke-width="3"/>
+<text x="785" y="392.2" text-anchor="middle" font-family="STHeiti, PingFang SC, Microsoft YaHei, sans-serif" font-size="20" fill="#34434e">GND</text>
+<text x="785" y="437.22" text-anchor="middle" font-family="STHeiti, PingFang SC, Microsoft YaHei, sans-serif" font-size="27" fill="#172635">3</text>
+<line x1="785" y1="480" x2="785" y2="960" stroke="#34434e" stroke-width="3"/>
+<text x="695" y="464.48" text-anchor="middle" font-family="STHeiti, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" fill="#536575">PH 2.0 · 3P</text>
+<text x="1095" y="299.68" text-anchor="middle" font-family="STHeiti, PingFang SC, Microsoft YaHei, sans-serif" font-size="38" fill="#172635">J3</text>
+<text x="1095" y="335.78" text-anchor="middle" font-family="STHeiti, PingFang SC, Microsoft YaHei, sans-serif" font-size="23" fill="#172635">右腿舵机链</text>
+<rect x="960" y="360" width="270" height="120" fill="#f7fafc" stroke="#172635" stroke-width="3"/>
+<text x="1005" y="392.2" text-anchor="middle" font-family="STHeiti, PingFang SC, Microsoft YaHei, sans-serif" font-size="20" fill="#1767ae">SIGNAL</text>
+<text x="1005" y="437.22" text-anchor="middle" font-family="STHeiti, PingFang SC, Microsoft YaHei, sans-serif" font-size="27" fill="#172635">1</text>
+<line x1="1005" y1="480" x2="1005" y2="550" stroke="#1767ae" stroke-width="3"/>
+<text x="1095" y="392.2" text-anchor="middle" font-family="STHeiti, PingFang SC, Microsoft YaHei, sans-serif" font-size="20" fill="#bb3535">VCC</text>
+<text x="1095" y="437.22" text-anchor="middle" font-family="STHeiti, PingFang SC, Microsoft YaHei, sans-serif" font-size="27" fill="#172635">2</text>
+<line x1="1095" y1="480" x2="1095" y2="660" stroke="#bb3535" stroke-width="3"/>
+<text x="1185" y="392.2" text-anchor="middle" font-family="STHeiti, PingFang SC, Microsoft YaHei, sans-serif" font-size="20" fill="#34434e">GND</text>
+<text x="1185" y="437.22" text-anchor="middle" font-family="STHeiti, PingFang SC, Microsoft YaHei, sans-serif" font-size="27" fill="#172635">3</text>
+<line x1="1185" y1="480" x2="1185" y2="960" stroke="#34434e" stroke-width="3"/>
+<text x="1095" y="464.48" text-anchor="middle" font-family="STHeiti, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" fill="#536575">PH 2.0 · 3P</text>
+<text x="1495" y="299.68" text-anchor="middle" font-family="STHeiti, PingFang SC, Microsoft YaHei, sans-serif" font-size="38" fill="#172635">J4</text>
+<text x="1495" y="335.78" text-anchor="middle" font-family="STHeiti, PingFang SC, Microsoft YaHei, sans-serif" font-size="23" fill="#172635">上身 / 颈部 / 头部舵机链</text>
+<rect x="1360" y="360" width="270" height="120" fill="#f7fafc" stroke="#172635" stroke-width="3"/>
+<text x="1405" y="392.2" text-anchor="middle" font-family="STHeiti, PingFang SC, Microsoft YaHei, sans-serif" font-size="20" fill="#1767ae">SIGNAL</text>
+<text x="1405" y="437.22" text-anchor="middle" font-family="STHeiti, PingFang SC, Microsoft YaHei, sans-serif" font-size="27" fill="#172635">1</text>
+<line x1="1405" y1="480" x2="1405" y2="550" stroke="#1767ae" stroke-width="3"/>
+<text x="1495" y="392.2" text-anchor="middle" font-family="STHeiti, PingFang SC, Microsoft YaHei, sans-serif" font-size="20" fill="#bb3535">VCC</text>
+<text x="1495" y="437.22" text-anchor="middle" font-family="STHeiti, PingFang SC, Microsoft YaHei, sans-serif" font-size="27" fill="#172635">2</text>
+<line x1="1495" y1="480" x2="1495" y2="660" stroke="#bb3535" stroke-width="3"/>
+<text x="1585" y="392.2" text-anchor="middle" font-family="STHeiti, PingFang SC, Microsoft YaHei, sans-serif" font-size="20" fill="#34434e">GND</text>
+<text x="1585" y="437.22" text-anchor="middle" font-family="STHeiti, PingFang SC, Microsoft YaHei, sans-serif" font-size="27" fill="#172635">3</text>
+<line x1="1585" y1="480" x2="1585" y2="960" stroke="#34434e" stroke-width="3"/>
+<text x="1495" y="464.48" text-anchor="middle" font-family="STHeiti, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" fill="#536575">PH 2.0 · 3P</text>
+<line x1="80" y1="550" x2="2120" y2="550" stroke="#1767ae" stroke-width="4"/>
+<text x="80" y="531.94" text-anchor="start" font-family="STHeiti, PingFang SC, Microsoft YaHei, sans-serif" font-size="29" fill="#1767ae">SIGNAL</text>
+<circle cx="205" cy="550" r="7" fill="#1767ae"/>
+<circle cx="605" cy="550" r="7" fill="#1767ae"/>
+<circle cx="1005" cy="550" r="7" fill="#1767ae"/>
+<circle cx="1405" cy="550" r="7" fill="#1767ae"/>
+<line x1="80" y1="660" x2="2120" y2="660" stroke="#bb3535" stroke-width="4"/>
+<text x="80" y="641.94" text-anchor="start" font-family="STHeiti, PingFang SC, Microsoft YaHei, sans-serif" font-size="29" fill="#bb3535">VCC</text>
+<circle cx="295" cy="660" r="7" fill="#bb3535"/>
+<circle cx="695" cy="660" r="7" fill="#bb3535"/>
+<circle cx="1095" cy="660" r="7" fill="#bb3535"/>
+<circle cx="1495" cy="660" r="7" fill="#bb3535"/>
+<line x1="80" y1="960" x2="2120" y2="960" stroke="#34434e" stroke-width="4"/>
+<text x="80" y="941.94" text-anchor="start" font-family="STHeiti, PingFang SC, Microsoft YaHei, sans-serif" font-size="29" fill="#34434e">GND</text>
+<circle cx="385" cy="960" r="7" fill="#34434e"/>
+<circle cx="785" cy="960" r="7" fill="#34434e"/>
+<circle cx="1185" cy="960" r="7" fill="#34434e"/>
+<circle cx="1585" cy="960" r="7" fill="#34434e"/>
+<text x="80" y="712.64" text-anchor="start" font-family="STHeiti, PingFang SC, Microsoft YaHei, sans-serif" font-size="24" fill="#bb3535">S288: ≤12.6 V</text>
+<circle cx="1860" cy="660" r="7" fill="#bb3535"/>
+<line x1="1860" y1="660" x2="1860" y2="766" stroke="#bb3535" stroke-width="3"/>
+<line x1="1812" y1="766" x2="1908" y2="766" stroke="#172635" stroke-width="5"/>
+<rect x="1812" y="787" width="96" height="9" fill="white" stroke="#172635" stroke-width="3"/>
+<line x1="1860" y1="796" x2="1860" y2="960" stroke="#34434e" stroke-width="3"/>
+<circle cx="1860" cy="960" r="7" fill="#34434e"/>
+<text x="1787" y="755.1" text-anchor="middle" font-family="STHeiti, PingFang SC, Microsoft YaHei, sans-serif" font-size="35" fill="#bb3535">+</text>
+<text x="1960" y="774.52" text-anchor="start" font-family="STHeiti, PingFang SC, Microsoft YaHei, sans-serif" font-size="32" fill="#172635">C1</text>
+<text x="1960" y="812.64" text-anchor="start" font-family="STHeiti, PingFang SC, Microsoft YaHei, sans-serif" font-size="24" fill="#172635">电解电容</text>
+<text x="1960" y="860.5" text-anchor="start" font-family="STHeiti, PingFang SC, Microsoft YaHei, sans-serif" font-size="25" fill="#172635">470 µF / 25 V</text>
+<text x="1960" y="904.78" text-anchor="start" font-family="STHeiti, PingFang SC, Microsoft YaHei, sans-serif" font-size="23" fill="#536575">可选 / 试装</text>
+<line x1="2080" y1="960" x2="2080" y2="986" stroke="#34434e" stroke-width="3"/>
+<line x1="2054" y1="986" x2="2106" y2="986" stroke="#34434e" stroke-width="3"/>
+<line x1="2063" y1="996" x2="2097" y2="996" stroke="#34434e" stroke-width="3"/>
+<line x1="2072" y1="1006" x2="2088" y2="1006" stroke="#34434e" stroke-width="3"/>
+<rect x="80" y="1045" width="2040" height="197" fill="#fff8ea" stroke="#e1c37f" stroke-width="2"/>
+<text x="105" y="1092.94" text-anchor="start" font-family="STHeiti, PingFang SC, Microsoft YaHei, sans-serif" font-size="29" fill="#805a12">画板与接线说明</text>
+<text x="105" y="1136.36" text-anchor="start" font-family="STHeiti, PingFang SC, Microsoft YaHei, sans-serif" font-size="26" fill="#172635">1. 四口共用同一套舵机电源；本图经 J1 供电，不再并接第二路电源。</text>
+<text x="105" y="1177.36" text-anchor="start" font-family="STHeiti, PingFang SC, Microsoft YaHei, sans-serif" font-size="26" fill="#172635">2. J1 的 VCC / GND 承担三组总电流；所有插座、线束、铜箔载流能力均需核对。</text>
+<text x="105" y="1218.36" text-anchor="start" font-family="STHeiti, PingFang SC, Microsoft YaHei, sans-serif" font-size="26" fill="#172635">3. 核对符号针号、封装焊盘和实际线束；6 Mbps 分支通信与电容效果尚需实测。</text>
+<text x="80" y="1293.64" text-anchor="start" font-family="STHeiti, PingFang SC, Microsoft YaHei, sans-serif" font-size="24" fill="#536575">针序依据：宇树《无刷数字舵机 J288/S288 使用手册》第 3 页。</text>
+<text x="80" y="1337.64" text-anchor="start" font-family="STHeiti, PingFang SC, Microsoft YaHei, sans-serif" font-size="24" fill="#536575">本图是连接原理参考，不是已验证的 PCB 生产文件；电容建议值可按实测调整。</text>
+<text x="2120" y="1339.78" text-anchor="end" font-family="STHeiti, PingFang SC, Microsoft YaHei, sans-serif" font-size="23" fill="#536575">1 / 1</text>
+</svg>
